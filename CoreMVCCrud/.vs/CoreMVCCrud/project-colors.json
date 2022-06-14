@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf1ad844-08d9-40e7-b8d1-efc9ab2bab55": {
+      "ProjectGuid": "cf1ad844-08d9-40e7-b8d1-efc9ab2bab55",
+      "DisplayName": "CoreMVCCrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
